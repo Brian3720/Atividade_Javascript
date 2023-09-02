@@ -1,5 +1,7 @@
-var nome_do_carro = "Fusca"
+var carro = nome_do_carro
+var nome_do_carro = nome
 
-alert(nome_do_carro)
+var nome = prompt("Qual o nome do carro? ");
 
-// muito fácil professor
+
+alert("o nome do carro é " + nome);

@@ -4,7 +4,7 @@ este arquivo tem as atividades de js passadas pelo professor Gabriel.
 
 ---
 ## atividade 1
-- Escreva u programa em Js e crie uma varoável chamada "nome_do_carro" e atribua-a um valor "fusca". Exiba-a ao usuário.
+- Escreva uM programa em Js e crie uma varoável chamada "nome_do_carro" e atribua-a um valor "fusca". Exiba-a ao usuário.
 ---
 ## atividade 2
 - Escreva um programa em Javascript em que o usuário informe o seu nome e exiba a mensagem "Olá, [NomeDoUsuario]".
@@ -14,6 +14,15 @@ Escreva um programa em Javascript em que o usuário informe o seu nome e em segu
 ---
 ## atividade 4
 Considerando a figura abaixo, escreva um programa para cada forma que calcule e exiba em tela cada uma de suas respectivas áreas. O usuário irá informar os valores de cada variável.
+---
+## atividade 5
+
+
+
+
+
+
+
 
 
 ---
@@ -40,4 +49,8 @@ while(bomba < relogio) {
 document.write("EXPLOSÃO")
 
 ---
+---
 
+
+# Learning
+Espaço destinado as lições que são dadas durantes as aulas para que eu possa continuar acompanhando sem me atrasar.
